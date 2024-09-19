@@ -12,7 +12,7 @@
 
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noonefr_69) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/NothingInHereMyFriend) [![Telegram](https://img.shields.io/badge/Telegram-0088cc.svg?logo=Telegram&logoColor=white)](https://t.me/Litirily) 
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc.svg?logo=Telegram&logoColor=white)](https://t.me/Litirily) 
 
 # 💻 Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
