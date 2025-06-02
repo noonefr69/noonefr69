@@ -5,10 +5,10 @@
 🦇 Pronouns: batman/chad<br />
 ⚡ Fun fact: We gonna die one day<br />
 
-# 📊 GitHub Stats
 
-![Noone's GitHub stats](https://github-readme-stats.vercel.app/api?username=noonefr69&show_icons=true&theme=radical)<br/>
+<!-- # 📊 GitHub Stats
 
+![Noone's GitHub stats](https://github-readme-stats.vercel.app/api?username=noonefr69&show_icons=true&theme=radical)<br/> -->
 
 
 ## 🌐 Socials
