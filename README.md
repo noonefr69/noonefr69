@@ -12,7 +12,7 @@
 
 
 ## 🌐 Socials
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc.svg?logo=Telegram&logoColor=white)](https://t.me/UzerNameFr) 
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc.svg?logo=Telegram&logoColor=white)](https://t.me/verminfs5) 
 [![Discord](https://img.shields.io/badge/Discord-0088cc.svg?logo=Discord&logoColor=white)](https://discord.com/channels/@me) 
 
 # 💻 Skills
