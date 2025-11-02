@@ -4,7 +4,7 @@
 
 Front-end developer passionate about crafting high-performance, responsive user interfaces. I specialize in transforming complex ideas into clean, efficient code using modern technologies like React, Next.js, and TypeScript to build seamless and engaging user experiences.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/verminfs5)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/noonefr69)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 <!--[![Followers](https://custom-icon-badges.demolab.com/github/followers/noonefr69?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/noonefr69?tab=followers)-->
 
