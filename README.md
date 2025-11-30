@@ -21,7 +21,7 @@ Front-end developer passionate about crafting high-performance, responsive user 
 <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="50" />
 <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="50" />
 <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" width="50" />
-<img src="https://img.icons8.com/?size=100&id=24895&format=png&color=000000" width="50" />
+<!-- <img src="https://img.icons8.com/?size=100&id=24895&format=png&color=000000" width="50" /> -->
 <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" width="50" />
 <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="50" />
 <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="50" />
