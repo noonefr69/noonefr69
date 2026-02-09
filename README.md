@@ -36,7 +36,7 @@ Front-end developer passionate about crafting high-performance, responsive user 
 ### 💎 Latest Projects
 
 [<img src="https://raw.githubusercontent.com/noonefr69/twit/refs/heads/master/public/loginPage.png" width="400" height="200" style="object-fit: cover;" />](https://twit-drab.vercel.app)
-[<img src="https://github.com/noonefr69/personal-finance/blob/master/public/personal-finance-zeta-peach.vercel.app_.png?raw=true" width="400" height="200" style="object-fit: cover;" />](https://personal-finance-zeta-peach.vercel.app)
+[<img src="https://github.com/noonefr69/personal-finance/blob/master/public/personal-finance-zeta-peach.vercel.app_.png?raw=true" width="400" height="200" style="object-fit: cover;" />](https://finance-gold-six.vercel.app)
 
 > Interested in contributing to React/Next.js projects and open-source initiatives.
 #
