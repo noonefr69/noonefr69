@@ -1,4 +1,4 @@
-# 🦇 Kasra M. Hosseini
+### 🦇 Kasra M. Hosseini
 
 `Front-End Developer | React, Next.js, TypeScript, Tailwind CSS | Building Scalable, User-Centric Web Apps`<br />
 
@@ -8,8 +8,7 @@ Front-end developer passionate about crafting high-performance, responsive user 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 <!--[![Followers](https://custom-icon-badges.demolab.com/github/followers/noonefr69?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/noonefr69?tab=followers)-->
 
----
-
+#
 
 ### 💻 Skills
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 20px;">
@@ -39,10 +38,3 @@ Front-end developer passionate about crafting high-performance, responsive user 
 [<img src="https://github.com/noonefr69/personal-finance/blob/master/public/personal-finance-zeta-peach.vercel.app_.png?raw=true" width="400" height="200" style="object-fit: cover;" />](https://finance-gold-six.vercel.app)
 
 > Interested in contributing to React/Next.js projects and open-source initiatives.
-#
-
-### 📊 Stats
-
-![Noone's GitHub stats](https://github-readme-stats.vercel.app/api?username=noonefr69&show_icons=true&theme=radical)<br/> 
-
-
