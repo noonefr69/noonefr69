@@ -1,3 +1,1 @@
-```js
-<img src={"./ban.JPG"} alt={"yox"} width={"100"} />
-```
+<img src="./ban.JPG" alt="yox" width="100" />
