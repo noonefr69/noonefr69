@@ -1,1 +1,1 @@
-<img src="github-readme.png" alt="GitHub profile README image">
+<img src="fastfetch-github.png" alt="GitHub profile README image">
